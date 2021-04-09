@@ -13,7 +13,7 @@
 
 #Idiomas com estou trabalhando
 
-< img src "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width = "25vw" height = "25vh">
+< img src "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width = "25vw" height = "25vh" >
 
 
 <!-- 
