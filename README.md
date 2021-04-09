@@ -12,7 +12,8 @@
 - 📫 How to reach me Discord #Walkerz1n #0083
 
 #Idiomas com estou trabalhando
-< img src = " https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg./1200px-Lua-Logo.svg.png" width = "25vw" height = "25vh">
+
+< img src "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" "width = "25vw" height = "25 ">
 
 
 <!-- 
