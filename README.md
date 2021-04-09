@@ -6,7 +6,7 @@
 **Walkerz1n/Walkerz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Homem letra](http://githud.com/professorjosedeasus/c/blob/master/homem%20letra.gif)
+![Homem letra](http://githud.com/professorjosedeassis/c/master/homen%20letra.gif)
 
 - 🔭 I’m currently working 
 - 🌱 I’m currently learning  muito sobre Lua
